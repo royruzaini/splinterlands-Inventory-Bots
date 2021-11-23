@@ -22,11 +22,11 @@ https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
 Step#3 Setup SeleniumBasic <br>
 1. Unzip the edgedriver_win64.zip file
-2. Rename msedgedriver.exe to edgedriver.exe 
-3. Copy the edgedriver.exe to the path of selenium <br>
+2. Rename <code>msedgedriver.exe</code> to <code>edgedriver.exe</code> 
+3. Copy the <code>edgedriver.exe</code> to the path of selenium <br>
 Here's two possibilties: <br>
-     First >> C:\Program Files\SeleniumBasic <br>
-     Second >> C:\Users\%username%\AppData\Local\SeleniumBasic
+     First >> <code>C:\Program Files\SeleniumBasic </code><br>
+     Second >> <code>C:\Users\%username%\AppData\Local\SeleniumBasic</code>
 
 # Download
 Download the excel file(bot) from discord below <br>
