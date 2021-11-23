@@ -25,8 +25,8 @@ Step#3 Setup SeleniumBasic <br>
 2. Rename <code>msedgedriver.exe</code> to <code>edgedriver.exe</code> 
 3. Copy the <code>edgedriver.exe</code> to the path of selenium <br>
 Here's two possibilties: <br>
-     First >> C:\Program Files\SeleniumBasic<br>
-     Second >> C:\Users\%username%\AppData\Local\SeleniumBasic
+     First >> <code>C:\Program Files\SeleniumBasic</code><br>
+     Second >> <code>C:\Users\username\AppData\Local\SeleniumBasic</code>
 
 # Download
 Download the excel file(bot) from discord below <br>
